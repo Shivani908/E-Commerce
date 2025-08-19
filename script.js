@@ -77,7 +77,6 @@ for (let i = 0; i < accordionBtn.length; i++) {
         accordionBtn[i].classList.remove('active');
 
       }
-
     }
 
     this.nextElementSibling.classList.toggle('active');
